@@ -1,0 +1,8 @@
+{
+  "vite": {
+    "version": "v1",
+    "ports": [
+      { "port": 5173, "label": "app" }
+    ]
+  }
+}
